@@ -19,7 +19,6 @@ The dataset contains product-level information such as:
 - Product Weight
 - Available Quantity
 
----
 
 ## Objectives
 
